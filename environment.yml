@@ -1,0 +1,10 @@
+name: botoenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipython
+  - python=3.6
+  - boto
+  - boto3
+
